@@ -81,7 +81,7 @@ lasso_reg.fit(X_train, y_train)
 Regression models can effectively predict diabetes progression.
 Regularization techniques improve model stability and interpretability.
 
----
+
 
 ## 👨‍💻 Author
 
