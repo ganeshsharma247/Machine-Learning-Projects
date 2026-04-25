@@ -105,7 +105,7 @@ y_pred = lrPipe.predict(X_test)
 
 ## 📌 Conclusion
 
-Using a pipeline with preprocessing and Logistic Regression improves accuracy and ensures a clean, scalable machine learning workflow.
+Using a pipeline with preprocessing and Logistic Regression improves accuracy and ensures a clean, scalable machine learning workflow..
 
 ---
 
