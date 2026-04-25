@@ -63,7 +63,6 @@ The objective of this project is to predict whether a passenger survived the Tit
 10. Evaluated model using accuracy, confusion matrix, and classification report
 11. Predicted survival for new passenger data
 
----
 
 ## 💻 Code Snippet
 
