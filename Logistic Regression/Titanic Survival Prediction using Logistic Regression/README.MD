@@ -77,7 +77,6 @@ lrPipe.fit(X_train, y_train)
 y_pred = lrPipe.predict(X_test)
 ```
 
----
 
 ## 📈 Model Evaluation
 
