@@ -95,7 +95,6 @@ y_pred = model.predict(X_test)
 * **Recall (Sensitivity) for malignant class is most important**
 * Missing a cancer case (False Negative) is more dangerous than a false alarm
 
----
 
 ## 🎯 Use Cases
 
@@ -103,7 +102,6 @@ y_pred = model.predict(X_test)
 * Cancer diagnosis assistance
 * Healthcare analytics
 
----
 
 ## 📌 Conclusion
 
