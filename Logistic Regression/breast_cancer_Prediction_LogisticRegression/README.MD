@@ -80,7 +80,6 @@ y_pred = model.predict(X_test)
 * Confusion Matrix
 * Classification Report
 
----
 
 ## 📌 Key Insights
 
@@ -88,7 +87,6 @@ y_pred = model.predict(X_test)
 * False negatives (missed cancer cases) must be minimized
 * Logistic Regression provides a strong baseline model
 
----
 
 ## ⚠️ Clinical Focus
 
