@@ -38,7 +38,7 @@ Develop a supervised classification model that predicts whether a tumor is malig
 
 * Logistic Regression
 
----
+
 
 ## 🛠️ Tools & Libraries
 
@@ -46,7 +46,7 @@ Develop a supervised classification model that predicts whether a tumor is malig
 * Scikit-learn
 * NumPy
 
----
+
 
 ## 🚀 Project Workflow
 
@@ -61,7 +61,7 @@ Develop a supervised classification model that predicts whether a tumor is malig
    * Confusion Matrix
    * Precision, Recall, F1-score
 
----
+
 
 ## 💻 Code Snippet
 
@@ -72,7 +72,6 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 ```
 
----
 
 ## 📈 Model Evaluation
 
