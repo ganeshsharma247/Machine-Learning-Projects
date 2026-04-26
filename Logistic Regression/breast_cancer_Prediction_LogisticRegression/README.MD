@@ -5,13 +5,12 @@
 Breast cancer is one of the most common cancers among women. Early and accurate diagnosis can reduce unnecessary biopsies and improve survival rates.
 This project builds a machine learning model to classify tumors as **malignant** or **benign**.
 
----
 
 ## 🎯 Project Objective
 
 Develop a supervised classification model that predicts whether a tumor is malignant or benign based on 30 numerical features extracted from medical images.
 
----
+
 
 ## 📊 Dataset Information
 
@@ -26,13 +25,13 @@ Develop a supervised classification model that predicts whether a tumor is malig
 * 0 → Malignant (Cancerous)
 * 1 → Benign (Non-cancerous)
 
----
+
 
 ## 🎯 Problem Type
 
 * Binary Classification
 
----
+
 
 ## ⚙️ Algorithm Used
 
