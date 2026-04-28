@@ -96,7 +96,7 @@ y_pred = model.predict(X_test)
 * Recall (Churn=1): **0.53**
 * F1-score: **0.58**
 
----
+
 
 ## 📌 Key Insights
 
@@ -104,7 +104,7 @@ y_pred = model.predict(X_test)
 * Recall for churn class is moderate → some churn customers are missed
 * Improving recall is important for better retention strategies
 
----
+
 
 ## 🎯 Business Use Cases
 
@@ -112,14 +112,13 @@ y_pred = model.predict(X_test)
 * Reduce revenue loss due to churn
 * Improve customer satisfaction
 
----
 
 ## 📌 Conclusion
 
 Machine Learning helps identify potential churn customers.
 Improving recall for churn cases can significantly enhance business impact.
 
----
+
 
 ## 👨‍💻 Author
 
