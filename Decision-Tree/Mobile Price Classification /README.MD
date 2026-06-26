@@ -172,10 +172,10 @@ This helps explain how the model makes decisions.
 
 ## 📌 Key Insights
 
-* Hardware specifications strongly influence price range.
-* RAM and battery power are among the most important predictors.
-* Hyperparameter tuning significantly improves model performance.
-* Decision Trees provide interpretable predictions.
+* Hardware specifications strongly influence price range
+* RAM and battery power are among the most important predictors
+* Hyperparameter tuning significantly improves model performance
+* Decision Trees provide interpretable predictions
 
 ---
 
