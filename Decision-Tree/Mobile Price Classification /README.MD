@@ -2,13 +2,13 @@
 
 ## 📌 Problem Statement
 
-Smartphone manufacturers and retailers need a way to estimate the price category of a mobile phone based on its hardware specifications. Predicting the correct price range helps businesses with pricing strategies and market positioning.
+Smartphone manufacturers and retailers need a way to estimate the price category of a mobile phone based on its hardware specifications. Predicting the correct price range helps businesses with pricing strategies and market positioning
 
 ---
 
 ## 🎯 Project Objective
 
-Build a machine learning model that predicts the price range of a mobile phone using its technical specifications.
+Build a machine learning model that predicts the price range of a mobile phone using its technical specifications
 
 The target variable contains four categories:
 
