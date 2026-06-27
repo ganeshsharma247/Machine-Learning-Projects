@@ -2,7 +2,7 @@
 
 ## 📌 Project Objective
 
-The objective of this project is to predict car mileage (MPG) based on engine size using a Machine Learning model.
+The objective of this project is to predict car mileage (MPG) based on engine size using a Machine Learning model
 
 ---
 
