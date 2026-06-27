@@ -79,7 +79,7 @@ y_pred = model.predict(x_test)
 
 ## 📌 Conclusion
 
-Multiple Linear Regression effectively models the relationship between advertising spend and sales.
+Multiple Linear Regression effectively models the relationship between advertising spend and sales
 
 ---
 
